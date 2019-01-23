@@ -1,0 +1,12 @@
+[package]
+name = "dejavu"
+version = "2.37.0"
+authors = ["Brian Martin <brayniac@gmail.com>"]
+edition = '2018'
+license = "MIT/Apache-2.0"
+description = "Provides the DejaVu font family for embedding"
+homepage = "https://github.com/brayniac/dejavu"
+repository = "https://github.com/brayniac/dejavu"
+readme = "README.md"
+
+[dependencies]
